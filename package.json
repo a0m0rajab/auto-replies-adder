@@ -1,0 +1,21 @@
+{
+  "name": "githbu_ara",
+  "version": "1.0.0",
+  "description": "Adding auto replies to github account by using headless browser, auto replies adding to github account for reviewers. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GitHub",
+    "Autoreply",
+    "automation"
+  ],
+  "author": "Abdurrahman Rajab",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^8.0.0"
+  }
+}
