@@ -1,10 +1,16 @@
 # auto-replies
 
+GitHub_ara: github auto saved replies adder.
+
 Auto-replies-adder is a tool to autoamtically add replies from TSV file to any github account. It's helpful for those who review codes a lot and use the same replies always with some minor changes! 
 
 ## How to use it: 
 
-### from repo
+### NPM
+
+Coming soon.
+
+### Repo
 
 - Clone this repo to your local PC.
 - run ```npm install``` to install the needed packages.

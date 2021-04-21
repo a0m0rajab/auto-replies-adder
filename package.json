@@ -1,7 +1,7 @@
 {
-  "name": "githbu_ara",
+  "name": "github_ara",
   "version": "1.0.0",
-  "description": "Adding auto replies to github account by using headless browser, auto replies adding to github account for reviewers. ",
+  "description": "Adding saved replies to github account by using headless browser, auto replies adding to github account for reviewers. ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
