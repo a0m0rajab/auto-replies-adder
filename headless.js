@@ -20,8 +20,8 @@ async function submitReply(page, title, text) {
 }
 async function run(username, password, replies) {
     const browser = await puppeteer.launch({
-        executablePath: '/usr/bin/chromium-browser',
-        headless: false,
+        // executablePath: '/usr/bin/chromium-browser',
+        // headless: false,
     });
     const page = await browser.newPage();
     await page.goto(`https://github.com/settings/replies`);

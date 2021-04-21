@@ -17,5 +17,14 @@
     "csv-parser": "^3.0.0",
     "prompt-sync": "^4.2.0",
     "puppeteer": "^8.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a0m0rajab/auto-replies-adder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a0m0rajab/auto-replies-adder/issues"
+  },
+  "homepage": "https://github.com/a0m0rajab/auto-replies-adder#readme"
 }
